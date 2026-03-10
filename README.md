@@ -26,6 +26,11 @@ This project demonstrates how to perform customer segmentation using RFM (Recenc
    python segmentation.py
    ```
 
+4. **Start the Dashboard**: Launch the interactive Streamlit dashboard to explore the grouped customers dynamically.
+   ```bash
+   streamlit run app.py
+   ```
+
 ## Outputs
 
 After running `segmentation.py`, check the `outputs/` folder for:
