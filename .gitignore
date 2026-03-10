@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Data and Outputs (to prevent pushing large data or generated artifacts to Git)
+data/
+outputs/
+*.csv
+*.png
